@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/video-calling-App/static/js/main.2b866578.js",
+    "main.js": "/video-calling-App/static/js/main.ba67fd63.js",
     "index.html": "/video-calling-App/index.html",
-    "main.2b866578.js.map": "/video-calling-App/static/js/main.2b866578.js.map"
+    "main.ba67fd63.js.map": "/video-calling-App/static/js/main.ba67fd63.js.map"
   },
   "entrypoints": [
-    "static/js/main.2b866578.js"
+    "static/js/main.ba67fd63.js"
   ]
 }
