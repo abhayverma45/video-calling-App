@@ -9,8 +9,7 @@ import VideocamOffIcon from "@material-ui/icons/VideocamOff";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 
 export default function Controls(props) {
-  const { tracks, setJoined, client, handlesharescreen, isSharingEnabled } =
-    props;
+  const { tracks, setJoined, client } = props;
   const [trackState, setTrackState] = useState({ video: true, audio: true });
 
   const mute = async (type) => {
@@ -74,13 +73,13 @@ export default function Controls(props) {
         </div>
         <div className="col">
           {" "}
-          <Button
+          {/* <Button
             variant="contained"
             color="default"
             onClick={() => handlesharescreen(!isSharingEnabled)}
           >
             {isSharingEnabled ? "Stop Sharing" : "Share screen"}
-          </Button>
+          </Button> */}
         </div>
       </div>
     </>
