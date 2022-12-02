@@ -3,9 +3,9 @@ import AgoraRTC from "agora-rtc-sdk-ng";
 import { VideoPlayer } from "./videoplayer";
 import Controls from "./Controls";
 
-const APP_ID = "4cf7bd20c16b484cb743206236049b7c";
+const APP_ID = "18e4bd7f0eb7493396e3165db8da195f";
 const TOKEN =
-  "007eJxTYCiff+yIlsL/nr/BOd+CTipmC6lIhHyfl7Lo8RYRqYVbipcpMBhapJokpZinGaQmmZtYGhtbmqUaG5qZpiRZpCQaWpqm3YlqT24IZGSI6lvJyMgAgSA+C0NuYmYeAwMAkJMgUw==";
+  "007eJxTYIiZ1Wcx9XR/I+OepDP9K4tntBrJ3bm+i8XZ0edZ4YTr9bcUGAwtUk2SUszTDFKTzE0sjY0tzVKNDc1MU5IsUhINLU3Tus52JjcEMjKo5ASyMDJAIIjPwpCbmJnHwAAAjmsgEg==";
 const CHANNEL = "main";
 
 export const client = AgoraRTC.createClient({
