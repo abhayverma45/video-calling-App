@@ -5,7 +5,7 @@ import Controls from "./Controls";
 
 const APP_ID = "18e4bd7f0eb7493396e3165db8da195f";
 const TOKEN =
-  "007eJxTYIiZ1Wcx9XR/I+OepDP9K4tntBrJ3bm+i8XZ0edZ4YTr9bcUGAwtUk2SUszTDFKTzE0sjY0tzVKNDc1MU5IsUhINLU3Tus52JjcEMjKo5ASyMDJAIIjPwpCbmJnHwAAAjmsgEg==";
+  "007eJxTYDh/9JPQyw03L13ffyAmi4f5gqqBwJSw03Z/b+itDbgV+EZNgcHQItUkKcU8zSA1ydzE0tjY0izV2NDMNCXJIiXR0NI07TjH5OSGQEaGWEMBRkYGCATxWRhyEzPzGBgA4H8gMw==";
 const CHANNEL = "main";
 
 export const client = AgoraRTC.createClient({
